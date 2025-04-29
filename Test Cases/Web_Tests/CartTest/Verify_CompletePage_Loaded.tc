@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_CompletePage_Loaded</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d4bdc48-88ca-4f0e-bed6-8e205fcf99eb</testCaseGuid>
+</TestCaseEntity>

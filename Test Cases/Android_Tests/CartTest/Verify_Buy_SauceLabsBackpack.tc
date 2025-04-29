@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Buy_SauceLabsBackpack</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19f5f4a0-94f6-426a-a3e1-98a496fd64c0</testCaseGuid>
+</TestCaseEntity>

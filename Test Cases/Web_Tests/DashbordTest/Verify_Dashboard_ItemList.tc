@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Dashboard_ItemList</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0b74145-0f43-465b-a2c6-8cd7987844ba</testCaseGuid>
+</TestCaseEntity>

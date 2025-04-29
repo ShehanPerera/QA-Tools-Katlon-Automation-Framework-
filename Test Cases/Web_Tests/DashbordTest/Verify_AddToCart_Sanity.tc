@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_AddToCart_Sanity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>042fc2be-9d76-4c41-8df0-89ba80c46c33</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06faeac1-d249-46f4-a677-7dd93b2bd17e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cc6e44a-16a4-4238-9d3f-6c196ed84b62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Add to cart'</defaultValue>
+      <description></description>
+      <id>06faeac1-d249-46f4-a677-7dd93b2bd17e</id>
+      <masked>false</masked>
+      <name>addToCart</name>
+   </variable>
+   <variable>
+      <defaultValue>'Remove'</defaultValue>
+      <description></description>
+      <id>8cc6e44a-16a4-4238-9d3f-6c196ed84b62</id>
+      <masked>false</masked>
+      <name>removeCart</name>
+   </variable>
+</TestCaseEntity>

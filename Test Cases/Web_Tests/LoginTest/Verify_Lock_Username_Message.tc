@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Lock_Username_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab8cb7d7-07b2-466a-9617-68262cbd8b37</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Invalid_Username_Messages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38dc535c-d69e-454b-9c8a-e3b19f2e60d6</testCaseGuid>
+</TestCaseEntity>

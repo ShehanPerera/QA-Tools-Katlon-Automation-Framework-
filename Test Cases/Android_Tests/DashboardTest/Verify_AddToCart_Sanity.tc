@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_AddToCart_Sanity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abc30261-b68d-46da-8a71-8141bbad54d5</testCaseGuid>
+</TestCaseEntity>

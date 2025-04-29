@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove_SauceLabsBackpack</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0245106c-a6a8-43c2-80a1-b6114598950b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>161c0e5b-5dd2-46fc-85a5-c50f7d359534</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b2f52e9-440b-4bbe-af25-d69373964554</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Add to cart'</defaultValue>
+      <description></description>
+      <id>161c0e5b-5dd2-46fc-85a5-c50f7d359534</id>
+      <masked>false</masked>
+      <name>addToCart</name>
+   </variable>
+   <variable>
+      <defaultValue>'Remove'</defaultValue>
+      <description></description>
+      <id>6b2f52e9-440b-4bbe-af25-d69373964554</id>
+      <masked>false</masked>
+      <name>removeCart</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Form_Loaded</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c5ff9d4-3702-4a76-87f1-bbde5ab5b6dc</testCaseGuid>
+</TestCaseEntity>

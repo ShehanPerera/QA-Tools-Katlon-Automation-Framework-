@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_SauceLabsBackpack</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50646e3e-34a5-4455-8f97-0860a47cf7c0</testCaseGuid>
+   <variable>
+      <defaultValue>'Add to cart'</defaultValue>
+      <description></description>
+      <id>f5410739-d52b-4964-bf55-a6b1f4b98b7d</id>
+      <masked>false</masked>
+      <name>addToCart</name>
+   </variable>
+   <variable>
+      <defaultValue>'Remove'</defaultValue>
+      <description></description>
+      <id>6b36de46-92d3-46d1-9c8d-27f186969b55</id>
+      <masked>false</masked>
+      <name>removeCart</name>
+   </variable>
+</TestCaseEntity>
