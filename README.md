@@ -34,9 +34,8 @@ This project is a sample test automation framework built using **Katalon Studio*
 
 ### 📑 HTML Reports
 - Attached sample reports for:
-  - Web test run (`Reports/Web_Report.html`)
-  - Mobile test run (`Reports/Mobile_Report.html`)
-
+  - Web test run (`Reports/WebSanity.html`)
+  - Mobile test run (`Reports/AndroidSanity.html`)
 ---
 
 ## 🚀 How to Run
